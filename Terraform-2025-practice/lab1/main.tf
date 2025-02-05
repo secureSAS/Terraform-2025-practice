@@ -123,5 +123,3 @@ resource "aws_instance" "my_instance2" {
     Name = "my-ec2-instance2"
   }
 }
-
-testing git changes ... 
